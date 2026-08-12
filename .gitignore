@@ -3,3 +3,5 @@ perfil_chrome_selenium/
 *.db
 __pycache__/
 .vscode/
+*.xlsx
+get-pip.py
